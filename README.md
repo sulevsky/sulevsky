@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi!
+
 I'm Vova
 
-Programming focused
+Focused on software engineering since 2007
 
 Rust fan
